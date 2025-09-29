@@ -110,12 +110,9 @@ Esses protótipos guiam a fase de desenvolvimento, garantindo que a interface se
 
 ---
 
-## 👥 Integrantes da Equipe
-- Antônio Kauan Pereira do Carmo – 2318116  
+## 👥 Integrantes da Equipe 
 - Carlos Eduardo Soares – 2317472  
 - Elias Roger de Sousa – 2317680  
-- Karla Briseno do Amaral – 2318110  
-- Maria Fiama Sales Florencio – 2318777  
 - Nathan Monteiro Silva – 2319297  
 
 
