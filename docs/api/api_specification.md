@@ -10,7 +10,8 @@ Entrada:
 
 Saída (200):
 { "token": "jwt_token...", "usuario": { "id": 1, "nome": "João", "perfil": "morador" } }
-📌 Endpoints
+
+#📌 Endpoints
 1. Horários
 
 GET /api/horarios/{bairro_id} → retorna horários.
@@ -50,3 +51,4 @@ POST /api/conteudo (admin) → cadastra novo conteúdo.
 404 Not Found – recurso não encontrado
 
 500 Internal Server Error – erro no servidor
+
