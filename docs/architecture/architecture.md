@@ -23,7 +23,7 @@ A persistência usa bancos híbridos: PostgreSQL (relacional) e MongoDB (não re
 - **Segurança com JWT e HTTPS.**  
 
 ## 📊 Diagrama da Arquitetura
-![Diagrama de Arquitetura](../../images/meu_lixo_arquitetura.png)
+
 <img width="1320" height="472" alt="meu_lixo_arquitetura" src="https://github.com/user-attachments/assets/675bc1af-5916-4bb1-8587-98d08523fb97" />
 
 ## ⚙️ Decisões Técnicas e Justificativas
@@ -32,3 +32,4 @@ A persistência usa bancos híbridos: PostgreSQL (relacional) e MongoDB (não re
 - **PostgreSQL + MongoDB:** balanceia consistência e flexibilidade.  
 - **Docker + Kubernetes:** garante escalabilidade e portabilidade.  
 - **Firebase Cloud Messaging:** envio de notificações em tempo real.  
+
