@@ -30,7 +30,6 @@ O sistema **Meu Lixo** surge para preencher essa lacuna, promovendo transparênc
 - Permitir o registro de feedbacks por parte dos usuários, como atrasos na coleta ou ocorrências.  
 - Oferecer um canal para denúncias de pontos de lixo irregular, utilizando geolocalização.  
 - Disponibilizar conteúdos educativos relacionados à reciclagem, reutilização e descarte adequado.  
-- Fornecer ferramentas de monitoramento e gestão para órgãos públicos e cooperativas.  
 - Promover o engajamento da comunidade na gestão sustentável dos resíduos sólidos.  
 
 ---
@@ -41,7 +40,7 @@ O sistema **Meu Lixo** surge para preencher essa lacuna, promovendo transparênc
 - Registro colaborativo de feedbacks.  
 - Envio de denúncias com suporte a geolocalização.  
 - Acesso a conteúdos educativos.  
-- Notificações push.  
+- Notificações.  
 - Painel administrativo para gestão de dados.  
 
 **Não inclui:**  
