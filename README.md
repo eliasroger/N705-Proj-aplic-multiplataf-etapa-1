@@ -77,7 +77,6 @@ Essa divisão garante tanto a consistência necessária quanto a flexibilidade p
 - **Banco Não Relacional:** MongoDB  
 - **Infraestrutura:** Docker, Kubernetes, AWS  
 - **Notificações:** Firebase Cloud Messaging  
-- **Prototipação:** Figma  
 - **Diagramas:** Draw.io, DbDiagram  
 
 ---
@@ -109,7 +108,7 @@ Esses protótipos guiam a fase de desenvolvimento, garantindo que a interface se
 | 3 | Desenvolvimento do app mobile (React Native) | Semana 5–6 |
 | 4 | Integração e testes de APIs | Semana 7 |
 | 5 | Testes finais e ajustes de usabilidade | Semana 8 |
-| 6 | Apresentação final | Semana 9 |
+| 6 | Apresentação final | Semana 8 |
 
 ---
 
