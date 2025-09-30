@@ -95,7 +95,8 @@ As telas representam:
 
 Esses protótipos guiam a fase de desenvolvimento, garantindo que a interface seja simples e adequada ao público-alvo.
 
-![Wireframes](./docs/images/Wireframes.png)
+
+<img width="756" height="979" alt="Wireframes" src="https://github.com/user-attachments/assets/a0d1adb2-c7f9-489f-9b0c-1456dafbba9d" />
 
 ---
 
