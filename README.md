@@ -63,7 +63,9 @@ A arquitetura do sistema é composta por três grandes camadas: **frontend, back
 Essa divisão garante tanto a consistência necessária quanto a flexibilidade para informações dinâmicas.
 
 ### 📊 Diagrama de Arquitetura
-![Diagrama de Arquitetura](./docs/images/meu_lixo_arquitetura.png)
+
+<img width="1320" height="472" alt="meu_lixo_arquitetura" src="https://github.com/user-attachments/assets/f625ad83-9bad-4334-979b-4408c826eb77" />
+
 
 ---
 
